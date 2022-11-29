@@ -1,0 +1,27 @@
+print("Do You Want To Play,SQUID GAME?")
+print("DISCLAMER!","Careful what you've' choose!")
+player_1 = input("Enter Your Name:")
+select_color = input("Choose A Color:(White, Yellow,Red,Black,Green,Blue,Pink,Orange,Violet,Gray):")
+
+
+if select_color=='Yellow':
+	print("You Selected Death Penalty!")
+elif select_color=='White':
+	print("Your safe!")
+elif select_color=='Red':
+	print("You Selected Death Penalty!")
+elif select_color=='Black':
+	print("You Selected Death Penalty!")
+elif select_color=='Green':
+	print("You Selected Death Penalty!")
+elif select_color=='Blue':
+	print("You Selected Death Penalty!")
+elif select_color=='Pink':
+	print("You Selected Death Penalty!")
+elif select_color=='Orange':
+	print("You Selected Death Penalty!")
+elif select_color=='Violet':
+	print("You Selected Death Penalty!")
+elif select_color=='Gray':
+	print("You Selected Death Penalty!")
+else:(Invalid
